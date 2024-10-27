@@ -26,7 +26,7 @@ The primary goal of this project is to review Flutter’s widget system and enha
 
 ---
 
-## 🛠️ What You Will Learn
+## 🛠️ What I Learn
 - **Modularizing code** into separate classes.
 - Using **class constructors** for efficient object creation.
 - Understanding **public and private modifiers** in Dart.
